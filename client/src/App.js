@@ -1,5 +1,7 @@
-import React from "react";
+import * as React from "react";
 import { createBrowserRouter, RouterProvider, } from "react-router-dom";
+import Header from "./components/Header/index";
+// import Footer from "./components/Footer/index";
 import ErrorPage from "./pages/Error/index";
 import Home from "./pages/Home/index";
 import About from './pages/About/index';
@@ -33,7 +35,7 @@ const router = createBrowserRouter([
 function App() {
   return (
     <>
-      {/* <Header /> */}
+      <Header />
       <RouterProvider router={router} />
       {/* <Footer /> */}
     </>

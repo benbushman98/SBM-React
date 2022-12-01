@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Invisible",
+        "src": "SpencerInvisible.jpg",
+        "songSrc": "invisble.mp3"
+    },
+    {
+        "id": 2,
+        "title": "Kiss you in the rain",
+        "src": "TeardropCover.png",
+        "songSrc": "kissyouintherain.mp3"
+    },
+    {
+        "id": 3,
+        "title": "give me a chance",
+        "src": "TeardropCover.png",
+        "songSrc": "givemeachange.mp3"
+    }
+]
