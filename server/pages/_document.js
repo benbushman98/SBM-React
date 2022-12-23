@@ -66,12 +66,12 @@ function Document() {
                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("link", {
                         rel: "alternate",
                         type: "application/rss+xml",
-                        href: `${"https://example.com"}/rss/feed.xml`
+                        href: `${"https://benbushman98.github.io/sbm-react"}/rss/feed.xml`
                     }),
                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("link", {
                         rel: "alternate",
                         type: "application/feed+json",
-                        href: `${"https://example.com"}/rss/feed.json`
+                        href: `${"https://benbushman98.github.io/sbm-react"}/rss/feed.json`
                     })
                 ]
             }),
