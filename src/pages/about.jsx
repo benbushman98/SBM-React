@@ -45,7 +45,7 @@ export default function About() {
         <title>About - Spencer Sharp</title>
         <meta
           name="description"
-          content="I’m Spencer Sharp. I live in New York City, where I design the future."
+          content="I&aposm Spencer Sharp. I live in New York City, where I design the future."
         />
       </Head>
       <Container className="mt-16 sm:mt-32">
@@ -62,7 +62,7 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              I’m Spencer Bushman. I live in Lehi, UT, where I work on my dreams.
+              I&aposm Spencer Bushman. I live in Lehi, UT, where I work on my dreams.
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
@@ -71,9 +71,9 @@ export default function About() {
                 much due to his parents love of similar passions.
               </p>
               <p>
-                Spencer's father enjoys sports and the pop/rock side of music and his mother enjoys 
+                Spencer&aposs father enjoys sports and the pop/rock side of music and his mother enjoys 
                 literature, writing and the classical side of music. From a very young age, 
-                Spencer's life has been influenced by music.
+                Spencer&aposs life has been influenced by music.
               </p>
               <p>
                 With a presence in both his junior high and high school choirs, that love 

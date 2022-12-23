@@ -57,7 +57,7 @@ export default function Contact() {
           <div className="text-center">
             <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Contact Me</h2>
             <p className="mt-4 text-lg leading-6 text-gray-500">
-              Please feel reach out to me with suggestions, ideas, or just to say hello! I'd love to hear from you!
+              Please feel reach out to me with suggestions, ideas, or just to say hello! I&aposd love to hear from you!
             </p>
           </div>
           <div className="mt-12">
@@ -170,7 +170,7 @@ export default function Contact() {
                   type="submit"
                   className="inline-flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 px-6 py-3 text-base font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
                 >
-                  Let's talk
+                  Let&aposs talk
                 </button>
               </div>
             </form>
